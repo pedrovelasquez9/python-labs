@@ -1,6 +1,6 @@
 #() tuplas
 #[] listas
-#{} objetos o diccionarios
+#{} objetos
 
 objeto = {'a':1, 'b':2, 'c':"string"}
 
